@@ -40,3 +40,7 @@ h2 {
 h3 {
   color: rgb(152,173,166);
 }
+
+img {
+  border: 5px rgb(111,127,122) solid;
+}
