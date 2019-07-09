@@ -41,6 +41,10 @@ h3 {
   color: rgb(152,173,166);
 }
 
+#necklage {
+  border: 5px rgb(152,173,166) solid;
+}
+
 img {
   border: 5px rgb(111,127,122) solid;
 }
