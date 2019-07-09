@@ -51,5 +51,7 @@ img {
 }
 
 #footer {
-  position: ;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
