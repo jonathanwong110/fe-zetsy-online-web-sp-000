@@ -3,6 +3,7 @@
 /* link the web font used for the level 1 heading here */
 
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700);
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -28,7 +29,7 @@ h1 {
   margin: 0 0 5px;
   font-size: 5em;
   font-weight: normal;
-  font-family: 'Baskerville', serif;
+  font-family: 'Libre Baskerville', serif;
   border-bottom: 1px solid #ccc;
 }
 
